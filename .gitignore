@@ -1,0 +1,10 @@
+# Ignorar la carpeta de ejecutables
+build/
+
+# Ignorar archivos específicos de Windows
+*.exe
+*.o
+*.obj
+
+# Ignorar archivos temporales de VS Code
+.vscode/
